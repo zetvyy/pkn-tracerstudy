@@ -38,6 +38,15 @@ nav.navbar {
    border-radius: 5px;
 }
 
+.btn-login-index {
+    margin-bottom: 0;
+    background-color:#0d6efd;
+    border: none;
+    color: #fff;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+ }
 
 a.navbar-brand {
     font-size: 24px;
@@ -50,10 +59,47 @@ a.navbar-brand {
 
 .content {
     padding-top: 200px;
+    text-align: center;
 }
 
-.content {
+.content-beranda {
+    text-align: start;
+    padding-top: 150px;
+    margin-bottom: 60px;
+}
+
+.text-study {
+    font-weight: 600;
+    background-color: #0A2647;
+    border-radius: 30px;
+    padding:2px 20px;
+    color: #fff;
+}
+
+.text-tracer {
+    font-weight: 600;
+}
+
+.text-beranda {
+    width: 60%;
+}
+
+.vektor {
+    width: 40%;
+    justify-content: center;
+}
+
+.berita {
     text-align: center;
+}
+
+.berita-chart {
+    text-align: center;
+}
+
+.kontak img {
+    width: 200px;
+    height: 50px;
 }
 
 .cart-content {

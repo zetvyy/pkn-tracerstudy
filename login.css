@@ -1,0 +1,26 @@
+.img_login {
+  width: 100%;
+  height: 100vh;
+}
+
+.logo {
+  width: 250px;
+}
+
+.check {
+  margin-right: 60%;
+}
+
+@media screen and (max-width: 834px) {
+  .logo {
+    margin-top: 30px;
+  }
+
+  .check {
+    margin-right: 40%;
+  }
+
+  .btn-login {
+    width: 100%;
+  }
+}

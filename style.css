@@ -114,6 +114,12 @@ form {
     margin-bottom: 100px;
 }
 
+/* CSS ISI KUESIONER */
+.next {
+    width: 20%;
+    margin-left: 10px;
+}
+
 @media screen and (max-width: 834px) {
     .btn-login {
         width: 100%;

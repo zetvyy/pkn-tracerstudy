@@ -143,4 +143,12 @@ form {
     padding-top: 100px;
     text-align: center;
   }
+
+  .vektor{
+    display: none;
+  }
+
+  .text-beranda {
+    width: 100%;
+  }
 }

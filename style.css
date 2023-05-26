@@ -58,7 +58,7 @@ a.navbar-brand {
 }
 
 .content {
-  padding-top: 200px;
+  padding-top: 150px;
   text-align: center;
 }
 
@@ -136,6 +136,19 @@ form {
 
 @media screen and (max-width: 834px) {
   .btn-login {
+    width: 100%;
+  }
+
+  .content {
+    padding-top: 100px;
+    text-align: center;
+  }
+
+  .vektor{
+    display: none;
+  }
+
+  .text-beranda {
     width: 100%;
   }
 }

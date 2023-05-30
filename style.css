@@ -110,10 +110,6 @@ form {
   padding-top: 100px;
 }
 
-.btn {
-  margin-bottom: 100px;
-}
-
 .check_icon {
   width: 40px;
   height: 40px;
@@ -130,8 +126,8 @@ form {
 
 /* CSS ISI KUESIONER */
 .next {
-    width: 20%;
-    margin-left: 10px;
+  width: 20%;
+  margin-left: 10px;
 }
 
 @media screen and (max-width: 834px) {

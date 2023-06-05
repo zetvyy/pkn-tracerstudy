@@ -23,4 +23,8 @@
   .btn-login {
     width: 100%;
   }
+
+  .img_login {
+    display: none;
+  }
 }

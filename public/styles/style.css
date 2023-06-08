@@ -110,12 +110,12 @@ form {
   padding-top: 100px;
 }
 
-.check_icon {
+#image_icon {
   width: 40px;
   height: 40px;
 }
 
-.btn_modal {
+#btn_modal {
   background-color: #0d6efd;
   color: #fff;
   border: none;
